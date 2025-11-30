@@ -1,7 +1,7 @@
 Luara Cristina Fernandes
 -Estudante de **"Ciência da computação"**.
 -Entre em contato **"luarac2007@gmail.com"**
--Me chamo Luara, sou natural de Curtiba, conclui o ensino medio em 2024 com enfáse em ciências da natureza é suas tecnologias, comecei a estudar Ciência da computação em EAD na Universidade Positivo, é pretendo atuar na área de desenvolvedor web é data science.
+-Me chamo Luara, sou natural de Curtiba, conclui o ensino medio em 2024 com enfáse em ciências da natureza é suas tecnologias, atualmete estudo Ciência da computação em EAD na Universidade Positivo.
 
 <p align="left">
     <a href="https://youtube.com/@eiluaracristina?si=saVwFmuDSOYMy2Jo">
